@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    display: flex;
+    overflow-y: hidden;
+    list-style: none;    
+}
+
+.head a{
+    text-decoration: none;
+    padding:4vh 1vw ;
+    background-color: rgb(227, 236, 244);
+    position: absolute;
+    font-size: 20px;
+    font-weight: 600;
+    z-index: 1;
+    margin-top: 20%;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 20px;
+   
+}
+
+.next{
+    right: 0;
+}
+.imgg1{
+    width: 100vw;
+    height: 100vh;
+}
+
